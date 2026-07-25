@@ -1,0 +1,7 @@
+Date: Sat 25 Jul 2026 17:51:15 
+Ligand: CC/C(/C1C=CC(OCCN(C)C)=CC=1)=C(\\C1C=CC=CC=1)/C1C=CC=CC=1
+Method: Vina
+Target: AF-P16422-F1-model_v6.pdb
+Sampling exhaustivity: 1
+Box size: 20 20 20
+Box center: 1.0 8.0 -3.0
